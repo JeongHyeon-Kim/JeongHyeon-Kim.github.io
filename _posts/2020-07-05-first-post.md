@@ -1,7 +1,8 @@
 ---
 title: "GitHub Pages 생성 후 첫 글"
-date: 2020-07-05 02:48:28 +0900
-categories: GitHub 
+date: 2020-07-05 02:48:28 +00:00
+categories: Diary
+tags: GitHub Pages
 ---
 
 개발이나 그와 관련된 내용들을 어떻게 공유하면 좋을까 생각하다가 GitHub에서 제공하는 기능이 있는 것을 알게 됐다.

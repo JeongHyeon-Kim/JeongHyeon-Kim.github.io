@@ -1,22 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "GitHub Pages 생성 후 첫 글"
+date: 2020-07-05 02:48:28 +0900
+categories: GitHub 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+개발이나 그와 관련된 내용들을 어떻게 공유하면 좋을까 생각하다가 GitHub에서 제공하는 기능이 있는 것을 알게 됐다.
 
-Jekyll also offers powerful support for code snippets:
+찾아본 결과 생각보다 쉬운 방법이길래 바로 적용하고 싶어졌다.
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+처음 생각과 달리 꽤 많은 우여곡절이 있었지만 수정에 수정을 거듭해 지금은 정상 작동한다!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+이곳의 첫 컨텐츠는 최근에 공부하고 있는 Spring에 관련된 내용을 게시하는 것을 목표로 하고 있다.

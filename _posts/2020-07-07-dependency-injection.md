@@ -8,14 +8,14 @@ tags: Spring LectureNote
 DI = 부품 조립
 
 
-![](https:/jeonghyeon-kim.github.io/_images/dependency-injection-image-1.png)
+![dependency-injection-image-1](https://user-images.githubusercontent.com/24868649/86779684-ccb0fd00-c096-11ea-9405-3ee5bc04b2d9.png)
 
 
 왼쪽 : 부품 일체형, 붙박이  
 오른쪽 : 부품 조립형, 갈아끼기 용이(기업형)
 
 
-![](https:/jeonghyeon-kim.github.io/_images/dependency-injection-image-2.png)
+![dependency-injection-image-2](https://user-images.githubusercontent.com/24868649/86779692-cde22a00-c096-11ea-80c9-20fb0ddd5983.png)
 
 
 부품을 만들어서(Dependency) 꽂음(Injection)  

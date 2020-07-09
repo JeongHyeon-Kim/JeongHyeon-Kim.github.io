@@ -16,5 +16,4 @@ DI를 직접 만들어봄
 
 
 참고 영상  
-https://youtu.be/gtqctgfywn4  
 [![Watch the video](https://img.youtube.com/vi/gtqctgfywn4/hqdefault.jpg)](https://youtu.be/gtqctgfywn4)

@@ -25,4 +25,4 @@ DI = 부품 조립
 
 
 참고 영상  
-https://youtu.be/WjsDN_aFfyw
+[![Watch the video](https://img.youtube.com/vi/WjsDN_aFfyw/hqdefault.jpg)](https://youtu.be/WjsDN_aFfyw)

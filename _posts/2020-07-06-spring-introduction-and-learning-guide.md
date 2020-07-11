@@ -20,4 +20,4 @@ MVC - DI - 느슨한 결합력과 인터페이스
 
 
 참고 영상  
-https://youtu.be/XtXHIDnzS9c
+[![Watch the video](https://img.youtube.com/vi/XtXHIDnzS9c/hqdefault.jpg)](https://youtu.be/XtXHIDnzS9c)

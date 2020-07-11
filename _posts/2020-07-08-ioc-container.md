@@ -20,4 +20,4 @@ Spring에 주문서를 제공해서 만들도록 함(DI)
 
 
 참고 영상  
-https://youtu.be/QrIp5zc6Bo4
+[![Watch the video](https://img.youtube.com/vi/QrIp5zc6Bo4/hqdefault.jpg)](https://youtu.be/QrIp5zc6Bo4)

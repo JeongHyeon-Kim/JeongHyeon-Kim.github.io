@@ -12,4 +12,4 @@ XML 등의 외부 설정을 통해 결합하는 방식(DI) - 새로운 객체로
 
 
 참고 영상  
-https://youtu.be/KJ9Rus3QfUc
+[![Watch the video](https://img.youtube.com/vi/KJ9Rus3QfUc/hqdefault.jpg)](https://youtu.be/KJ9Rus3QfUc)

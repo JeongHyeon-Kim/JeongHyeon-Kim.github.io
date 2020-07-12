@@ -17,8 +17,8 @@ AWS는 1년 간 무료로 사용할 수 있는 프리티어 기회가 남아 있
 
 다음은 AWS 서버 구성을 위해 참고한 곳들이다.
 
-![AWS 프리티어 발급부터 EC2 접속까지](https://taetaetae.github.io/2019/04/14/aws-freetier-create-and-ssh-access/)
+[AWS 프리티어 발급부터 EC2 접속까지](https://taetaetae.github.io/2019/04/14/aws-freetier-create-and-ssh-access/)
 
-![[AWS] EC2 Instance 삭제 방법](https://88240.tistory.com/484)
+[[AWS] EC2 Instance 삭제 방법](https://88240.tistory.com/484)
 
-![[AWS] EC2 Centos MobaXterm (SSH) 접속 방법, login as 값](https://gethlemn.tistory.com/12)
+[[AWS] EC2 Centos MobaXterm (SSH) 접속 방법, login as 값](https://gethlemn.tistory.com/12)

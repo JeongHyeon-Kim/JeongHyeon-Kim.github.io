@@ -1,6 +1,6 @@
 ---
 title: "Dependency를 직접 Injection하기"
-date: 2020-07-08 23:57:46 +00:00
+date: 2020-07-09 23:57:46 +00:00
 categories: Development
 tags: Spring LectureNote
 ---

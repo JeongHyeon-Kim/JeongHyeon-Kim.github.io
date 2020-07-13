@@ -26,4 +26,4 @@ setting부도 구현 가능
 타입에 따라 value형이냐 ref형이냐에 따라 다르게 넣음
 
 참고 영상  
-[![Watch the video](https://img.youtube.com/vi/bYu9MNLBvX0/hqdefault.jpg)]https://youtu.be/bYu9MNLBvX0)
+[![Watch the video](https://img.youtube.com/vi/bYu9MNLBvX0/hqdefault.jpg)](https://youtu.be/bYu9MNLBvX0)

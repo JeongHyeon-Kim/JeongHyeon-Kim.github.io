@@ -40,7 +40,7 @@ java 파일쪽 주석 처리
 실제로 DI가 안된 것을 확인한 것임
 
 ![image](https://user-images.githubusercontent.com/24868649/88067641-36a6c780-cbaa-11ea-9785-dd91548d761e.png)
- 
+
 setter쪽에 Annotation을 추가함, 하지만 그래도 NullPointerException이 발생
 
 ![image](https://user-images.githubusercontent.com/24868649/88067682-41f9f300-cbaa-11ea-98cf-a238ff95ff1b.png)

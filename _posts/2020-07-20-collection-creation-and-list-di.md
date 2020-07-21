@@ -1,6 +1,6 @@
 ---
 title: "콜렉션 생성과 목록 DI"
-date: 2020-07-19 23:50:23 +00:00
+date: 2020-07-20 23:50:23 +00:00
 categories: Development
 tags: Spring LectureNote
 ---

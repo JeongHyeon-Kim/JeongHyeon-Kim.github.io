@@ -1,6 +1,5 @@
 1. YouTube에서 생성한 사진을 비디오의 미리보기로 사용하여 Github Pages에 동영상 넣기
 
-
 다음 형식의 YouTube URL의 경우 :  
 <pre>
   <code>
@@ -34,7 +33,7 @@ https://img.youtube.com/vi/[VIDEO ID]/hqdefault.jpg
 
 참고
 
-[아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법][https://ndb796.tistory.com/51]
+[아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법](https://ndb796.tistory.com/51)
 
 [pull 방법](https://m.blog.naver.com/wlgh325/221443819508)
 

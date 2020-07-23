@@ -34,6 +34,20 @@ https://img.youtube.com/vi/[VIDEO ID]/hqdefault.jpg
 
 참고
 
-[아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법       ][https://ndb796.tistory.com/51]
+[아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법][https://ndb796.tistory.com/51]
 
 [pull 방법](https://m.blog.naver.com/wlgh325/221443819508)
+
+4. tomcat 루트 디렉토리 변경
+
+- {톰캣 설치 폴더}/conf/server.xml를 편집기로 열기
+- Host 태그 내부에 Context 태그 추가(<Context path="" reloadable="true" docBase="{바꾸고자 하는 루트 디렉토리 경로}"/>)
+- {톰캣 설치 폴더}/shutdown.sh와 {톰캣 설치 폴더}/start.sh 실행
+
+반영
+
+http://13.125.90.22:8080/foo.jsp
+
+참고
+
+[JSP 간단하게 시작하기...](https://ospace.tistory.com/132)

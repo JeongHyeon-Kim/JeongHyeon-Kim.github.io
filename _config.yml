@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be Softwarer, 본질을 아는 프로그래머가 되고 싶은 개발자"
   location         : "South Korea"
-  email            : ""
+  # email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

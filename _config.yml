@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "JeongHyeon Kim"
+  name             : "PureBlack"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Be Softwarer"
-  location         : "Gyeonggi, Korea"
-  email            : "jeonghyeon.kim0709@gmail.com"
+  bio              : "Be Softwarer, 본질을 아는 프로그래머가 되고 싶은 개발자"
+  location         : "South Korea"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jeonghyeon.kim0709@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

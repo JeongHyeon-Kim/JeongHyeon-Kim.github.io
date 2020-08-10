@@ -60,8 +60,11 @@ tags: Spring LectureNote
 ![image](https://user-images.githubusercontent.com/24868649/89720776-e8e6e780-da10-11ea-9893-9421c696f24c.png)
 
 - total만 로그가 많이 출력된 것을 확인할 수 있음
+
 - Advice-Advisor가 1대1 대응돼 불편함, 이 방법은 옛날 방식
+
 - 다음 시간엔 더 나은 방식을 알아볼 예정
+
 - 그 다음 시간엔 어노테이션으로 설정하는 방법을 알아볼 것
 
 참고 영상  

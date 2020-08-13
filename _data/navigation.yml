@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Diary"
+    url: /category/Development
   - title: "Development"
     url: /category/Development
   # - title: "About"
